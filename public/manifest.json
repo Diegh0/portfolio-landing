@@ -1,0 +1,16 @@
+{
+  "name": "Diego Fuertes — Frontend Developer & UI/UX Designer",
+  "short_name": "Diego Fuertes",
+  "description": "Portfolio profesional de Diego Fuertes Moreno",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
